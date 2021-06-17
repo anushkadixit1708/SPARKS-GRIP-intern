@@ -5,9 +5,8 @@ This model can classify over 43 different traffic signs with a validation accura
 <img src="readme resources/prediction.png">
 </img>
 
-## Google Colab code:
-
-
+## Code:
+ [Jupyter Notebook](https://github.com/anushkadixit1708/SPARKS-GRIP-intern/blob/main/Traffic%20Sign%20Classification/Traffic_Sign_Classifier.ipynb)
 
 ## Dataset :
 
